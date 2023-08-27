@@ -1,2 +1,2 @@
 # cuda
-I learn coda
+I learn cuda
